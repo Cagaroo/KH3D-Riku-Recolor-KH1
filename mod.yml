@@ -7,11 +7,11 @@ assets:
   - name: remastered\chara\high\h_ex02\mig\0\bin\h_ex020.pmo\h_ex020_01.dds
   method: copy
   source:
-  - name: p_ex020\p_ex020_00.DDS
+  - name: 3ds\chara_pc\p_ex020\p_ex020_00.DDS
 - name: remastered\chara\pc\p_ex02\mig\0\bin\p_ex020.pmo\p_ex020_01.dds
   multi:
-  - name: remastered\chara\pc\p_ex02\mig\0\bin\h_ex020.pmo\p_ex020_03.dds
+  - name: remastered\chara\pc\p_ex02\mig\0\bin\p_ex020.pmo\h_ex020_03.dds
   - name: remastered\chara\high\h_ex02\mig\0\bin\h_ex020.pmo\h_ex020_03.dds
   method: copy
   source:
-  - name: p_ex020\p_ex020_01.DDS
+  - name: 3ds\chara_pc\p_ex020\p_ex020_01.DDS
